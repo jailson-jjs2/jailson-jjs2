@@ -20,6 +20,8 @@ Atualmente estudando Java, Spring Boot, Analise de Dados, Python
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
