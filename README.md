@@ -8,8 +8,10 @@ Atualmente estudando Java, Spring Boot, Analise de Dados, Python
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailson-jjs2&layout=compact&langs_count=10&theme=dark"/>
+  
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
@@ -31,5 +33,7 @@ Atualmente estudando Java, Spring Boot, Analise de Dados, Python
 <!-- REDES SOCIAIS -->
 
 <a href="https://www.linkedin.com/in/jailson-joventino-ti-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=jailson-jjs2)
 
 </div>
