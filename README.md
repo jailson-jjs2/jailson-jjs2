@@ -9,10 +9,9 @@ Atualmente estudando Java, Spring Boot, Analise de Dados, Python
 <!-- GITHUB STATUS -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  -->
+<a href="http://www.github.com/jailson-jjs2"><img src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jailson-jjs2's GitHub stats" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailson-jjs2&layout=compact&langs_count=10&theme=dark"/>
-
-  <a href="http://www.github.com/jailson-jjs2"><img src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jailson-jjs2's GitHub stats" /></a>
   
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
